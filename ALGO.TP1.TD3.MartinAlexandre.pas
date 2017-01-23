@@ -1,4 +1,7 @@
 program triangle;
+// but : affiche deux triangles . le 1er est un triangle de caractere . le 2eme est un triangle d'entier
+// Entrée : taille des triangles
+// Sortie : 2 triangles 
 
 uses crt;
 
@@ -61,7 +64,9 @@ End.
 
 {
 // programme triangle
-// but : affiche deux triangles . le 1er 
+// but : affiche deux triangles . le 1er est un triangle de caractere . le 2eme est un triangle d'entier
+// Entrée : taille des triangles
+// Sortie : 2 triangles 
 
 
 procedure caractere // permet de cree le triangle avec les caracteres
